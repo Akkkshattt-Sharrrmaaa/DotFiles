@@ -7,3 +7,4 @@
 Eg. ~/.config/openbox/autostart.sh
 
 </p>
+<img src="autostart.png" align="centre" >
